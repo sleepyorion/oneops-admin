@@ -1,3 +1,2 @@
-name:  "shared"
-version: "0.0.1"
-
+name             "shared"
+version          "0.0.1"
